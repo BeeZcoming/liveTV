@@ -29,7 +29,7 @@
 
 点击下面按钮，一键部署到 Vercel：
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/Ouonnki/OuonnkiTV&build-command=pnpm%20build&install-command=pnpm%20install&output-directory=dist)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/BeeZcoming/liveTV&build-command=pnpm%20build&install-command=pnpm%20install&output-directory=dist)
 
 **Vercel手动详细部署方法**
 - Fork 或克隆本仓库到您的 GitHub/GitLab 账户
